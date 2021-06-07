@@ -1,1 +1,1 @@
-# Temp-Calculator
+# Counter Program
